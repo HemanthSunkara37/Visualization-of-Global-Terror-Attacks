@@ -8,3 +8,4 @@ Target Type Analysis: Highlights the primary targets of terrorist attacks, such 
 Interactive Dashboards & Storytelling: Designed three Tableau storyboards to narrate findings effectively.
 4. Tool Used: Tableau Public was used to work on the visualization.
 5. Dataset Link: https://www.kaggle.com/code/eljoven/analysis-of-global-terrorism/input
+
