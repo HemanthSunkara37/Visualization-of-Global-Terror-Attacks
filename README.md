@@ -6,3 +6,5 @@ Attack Type Analysis: Identifies prevalent attack methods used globally.
 Target Type Analysis: Highlights the primary targets of terrorist attacks, such as civilians, government entities, or infrastructure.
 3. Visualization Approach: Charts & Graphs: Created in Tableau to display attack trends, regional hotspots, target distributions, and weapon types.
 Interactive Dashboards & Storytelling: Designed three Tableau storyboards to narrate findings effectively.
+4. Tool Used: Tableau Public was used to work on the visualization.
+5. Dataset Link: https://www.kaggle.com/code/eljoven/analysis-of-global-terrorism/input
